@@ -1,5 +1,5 @@
 # IndoML Datathon 2023: Starter Kit
-based on materials from @bsantraigi Intent Detection: From Sesame Street to LLMs
+based on materials from the tutorial by [@bsantraigi](https://github.com/bsantraigi/2023-IndoML-Datathon-Tutorial), titled Intent Detection: From Sesame Street to LLMs
 
 #IndoML 2023 #Datathon #Tutorial
 
