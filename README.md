@@ -1,10 +1,19 @@
 # IndoML Datathon 2023: Starter Kit
-based on materials from the tutorial by [@bsantraigi](https://github.com/bsantraigi/2023-IndoML-Datathon-Tutorial), titled Intent Detection: From Sesame Street to LLMs. Video available here: https://www.youtube.com/watch?v=L3fa8Frmqro
+based on materials from the tutorial by [@bsantraigi](https://github.com/bsantraigi/2023-IndoML-Datathon-Tutorial), titled Intent Detection: From Sesame Street to LLMs. 
+Tutorial video available here: https://www.youtube.com/watch?v=L3fa8Frmqro
 
 #IndoML-2023 #Datathon 
 
 <img src="images/indomlLogo.jpg">
 
+## TLDR: Important dates and steps
+
+- 👉 Register: https://docs.google.com/forms/d/e/1FAIpQLSfOnpG-7fgthBSTAJS7UnF3m57fPCbvtwpAt1JWoBjUbUyvXA/viewform
+- 🤼 Data and Competition portal at: https://codalab.lisn.upsaclay.fr/competitions/14977
+- ⏲️ Submit predictions at the portal
+- 🗓️ Submission at portal begins on **2nd october**
+- 🗓️ Deadline: **12th October**
+- 🏆 Win prizes worth INR 1 Lakhs
 
 ## Notebooks
 
