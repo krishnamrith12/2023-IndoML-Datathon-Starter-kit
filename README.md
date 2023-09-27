@@ -18,7 +18,11 @@ Tutorial video available here: https://www.youtube.com/watch?v=L3fa8Frmqro
 ## A quick recipe to get you upto speed
 1. Get a model finetuned for intent detection, say on the MASSIVE dataset: https://huggingface.co/models?dataset=dataset:AmazonScience%2Fmassive&sort=trending
 2. Finetune  the model on our training dataset -  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsantraigi/2023-IndoML-Datathon-Tutorial/blob/main/TransformerFinetune.ipynb)
-3. Obtain the predictions and submit 
+3. Obtain the predictions and submit
+
+## A lazy approach with prompts
+1. LLM_ShortPrompt.ipynb ➞ [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsantraigi/2023-IndoML-Datathon-Tutorial/blob/main/LLM_ShortPrompt.ipynb)
+2. Obtain the predictions
 
 ## Notebooks
 
