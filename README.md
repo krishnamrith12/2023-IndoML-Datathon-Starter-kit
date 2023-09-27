@@ -21,7 +21,7 @@ Tutorial video available here: https://www.youtube.com/watch?v=L3fa8Frmqro
 3. Obtain the predictions and submit
 
 ### Data
-- Training data: surprise_data.zip
+- Training data: [surprise_data.zip](https://github.com/krishnamrith12/2023-IndoML-Datathon-Starter-kit/blob/main/surprise_data.zip)
 - Test data: TO be released on Oct 2
 
 ## A lazy approach with prompts
