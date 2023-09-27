@@ -12,8 +12,13 @@ Tutorial video available here: https://www.youtube.com/watch?v=L3fa8Frmqro
 - 🤼 Data and Competition portal at: https://codalab.lisn.upsaclay.fr/competitions/14977
 - ⏲️ Submit predictions at the portal
 - 🗓️ Submission at portal begins on **2nd october**
-- 🗓️ Deadline: **12th October**
+- 🗓️ Competition Deadline: **12th October**
 - 🏆 Win prizes worth INR 1 Lakhs
+
+## A quick recipe to get you upto speed
+1. Get a model finetuned for intent detection, say on the MASSIVE dataset: https://huggingface.co/models?dataset=dataset:AmazonScience%2Fmassive&sort=trending
+2. Finetune  the model on our training dataset -  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsantraigi/2023-IndoML-Datathon-Tutorial/blob/main/TransformerFinetune.ipynb)
+3. Obtain the predictions and submit 
 
 ## Notebooks
 
