@@ -3,7 +3,7 @@ based on materials from the tutorial by [@bsantraigi](https://github.com/bsantra
 
 #IndoML-2023 #Datathon 
 
-<img src="images/poster.jpg" width="100%">
+<img src="images/indomlLogo.jpg">
 
 
 ## Notebooks
