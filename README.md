@@ -21,7 +21,7 @@ Tutorial video available here: https://www.youtube.com/watch?v=L3fa8Frmqro
 3. Obtain the predictions and submit
 
 ### Data
-- Training data: <>
+- Training data: surprise_data.zip
 - Test data: TO be released on Oct 2
 
 ## A lazy approach with prompts
