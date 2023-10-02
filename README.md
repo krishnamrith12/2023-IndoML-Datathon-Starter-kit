@@ -9,11 +9,6 @@
 - 🗓️ Competition Deadline: **12th October**
 - 🏆 Win prizes worth **INR 1 Lakhs**
 
-##IndoML-2023 #Datathon 
-
-based on materials from the tutorial by [@bsantraigi](https://github.com/bsantraigi/2023-IndoML-Datathon-Tutorial), titled Intent Detection: From Sesame Street to LLMs. 
-Tutorial video available here: https://www.youtube.com/watch?v=L3fa8Frmqro
-
 
 <img src="images/indomlLogo.jpg">
 
@@ -59,6 +54,11 @@ There are also a few other bonus scripts available that showcases the use of oth
 Best options are Kaggle Notebooks and Google Colab.
 
 ## Other Links
+
+##IndoML-2023 #Datathon 
+
+based on materials from the tutorial by [@bsantraigi](https://github.com/bsantraigi/2023-IndoML-Datathon-Tutorial), titled Intent Detection: From Sesame Street to LLMs. 
+Tutorial video available here: https://www.youtube.com/watch?v=L3fa8Frmqro
 
 
 * Nice blog about training very large models (Falcon-7b!) on Colab: [The Falcon has landed in the Hugging Face ecosystem](https://huggingface.co/blog/falcon)
