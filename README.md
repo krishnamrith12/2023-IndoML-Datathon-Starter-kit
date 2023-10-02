@@ -1,19 +1,23 @@
 # IndoML Datathon 2023: Starter Kit
-based on materials from the tutorial by [@bsantraigi](https://github.com/bsantraigi/2023-IndoML-Datathon-Tutorial), titled Intent Detection: From Sesame Street to LLMs. 
-Tutorial video available here: https://www.youtube.com/watch?v=L3fa8Frmqro
-
-#IndoML-2023 #Datathon 
-
-<img src="images/indomlLogo.jpg">
 
 ## TLDR: Important dates and steps
 
 - 👉 Register: https://docs.google.com/forms/d/e/1FAIpQLSfOnpG-7fgthBSTAJS7UnF3m57fPCbvtwpAt1JWoBjUbUyvXA/viewform
-- 🤼 Data and Competition portal at: https://codalab.lisn.upsaclay.fr/competitions/14977
-- ⏲️ Submit predictions at the portal
-- 🗓️ Submission at portal begins on **2nd october**
+- 📂 Download the Data: https://github.com/krishnamrith12/2023-IndoML-Datathon-Starter-kit/tree/main/data
+- 🏗️ Build your model
+- 🏟️ Submit your predictions at: https://codalab.lisn.upsaclay.fr/competitions/14977
 - 🗓️ Competition Deadline: **12th October**
-- 🏆 Win prizes worth INR 1 Lakhs
+- 🏆 Win prizes worth **INR 1 Lakhs**
+
+##IndoML-2023 #Datathon 
+
+based on materials from the tutorial by [@bsantraigi](https://github.com/bsantraigi/2023-IndoML-Datathon-Tutorial), titled Intent Detection: From Sesame Street to LLMs. 
+Tutorial video available here: https://www.youtube.com/watch?v=L3fa8Frmqro
+
+
+<img src="images/indomlLogo.jpg">
+
+
 
 ## A quick recipe to get you upto speed
 1. Get a model finetuned for intent detection, say on the MASSIVE dataset ➞ https://huggingface.co/models?dataset=dataset:AmazonScience%2Fmassive&sort=trending
