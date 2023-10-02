@@ -3,7 +3,7 @@
 ## TLDR: Important dates and steps
 
 - 👉 Register: [https://forms.gle/2d5kabsuvnUx6xX76 ](https://forms.gle/2d5kabsuvnUx6xX76 )
-- 📂 Download the Data: [Check the "data" folder][https://github.com/krishnamrith12/2023-IndoML-Datathon-Starter-kit/tree/main/data]
+- 📂 Download the Data: [Check the "data" folder](https://github.com/krishnamrith12/2023-IndoML-Datathon-Starter-kit/tree/main/data)
 - 🏗️ Build your model: [A quick recipe to get you upto speed](https://github.com/krishnamrith12/2023-IndoML-Datathon-Starter-kit/blob/main/README.md#a-quick-recipe-to-get-you-upto-speed)
 - 🏟️ Submit your predictions at: https://codalab.lisn.upsaclay.fr/competitions/14977
 - 🗓️ Competition Deadline: **12th October**
