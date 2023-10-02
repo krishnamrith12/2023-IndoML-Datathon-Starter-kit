@@ -26,10 +26,16 @@
 - Test data: [massive_test.data](https://github.com/krishnamrith12/2023-IndoML-Datathon-Starter-kit/blob/main/data/massive_test.data)
 - Use your favourite text editor or IDE to see the data
 
-## A lazy approach with prompts
+### A lazy approach with prompts
 1. LLM_ShortPrompt.ipynb ➞ [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsantraigi/2023-IndoML-Datathon-Tutorial/blob/main/LLM_ShortPrompt.ipynb)
 2. Obtain the predictions
 
+## Reach out to us
+- Discord https://discord.com/invite/zqp7Pma3TA
+- Tutorials playlist: https://www.youtube.com/playlist?list=PLvzThk3qRkmVe1v2wRRKnQeV7BHIY5xQW
+- Datathon website - https://sites.google.com/view/datathon-indoml23
+- IndoML website - https://indoml.in/
+- Linktree - - https://linktr.ee/datathon
 
 <img src="images/indomlLogo.jpg">
 
