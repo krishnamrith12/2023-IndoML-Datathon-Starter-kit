@@ -9,11 +9,6 @@
 - 🗓️ Competition Deadline: **12th October**
 - 🏆 Win prizes worth **INR 1 Lakhs**
 
-
-<img src="images/indomlLogo.jpg">
-
-
-
 ## A quick recipe to get you upto speed
 1. Get a model finetuned for intent detection, say on the MASSIVE dataset ➞ https://huggingface.co/models?dataset=dataset:AmazonScience%2Fmassive&sort=trending
 2. Finetune  the model on our training dataset ➞  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsantraigi/2023-IndoML-Datathon-Tutorial/blob/main/TransformerFinetune.ipynb)
@@ -24,6 +19,8 @@ https://github.com/krishnamrith12/2023-IndoML-Datathon-Starter-kit/tree/main/dat
 - Training data: [surprise_data.zip](https://github.com/krishnamrith12/2023-IndoML-Datathon-Starter-kit/blob/main/data/surprise_data.zip)
 - Test data: [massive_test.data](https://github.com/krishnamrith12/2023-IndoML-Datathon-Starter-kit/blob/main/data/massive_test.data)
 - Use your favourite text editor or IDE to see the data
+
+<img src="images/indomlLogo.jpg">
 
 ## A lazy approach with prompts
 1. LLM_ShortPrompt.ipynb ➞ [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsantraigi/2023-IndoML-Datathon-Tutorial/blob/main/LLM_ShortPrompt.ipynb)
