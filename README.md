@@ -25,8 +25,10 @@ Tutorial video available here: https://www.youtube.com/watch?v=L3fa8Frmqro
 3. Obtain the predictions and submit
 
 ### Data
-- Training data: [surprise_data.zip](https://github.com/krishnamrith12/2023-IndoML-Datathon-Starter-kit/blob/main/surprise_data.zip)
-- Test data: TO be released on Oct 2
+https://github.com/krishnamrith12/2023-IndoML-Datathon-Starter-kit/tree/main/data
+- Training data: [surprise_data.zip](https://github.com/krishnamrith12/2023-IndoML-Datathon-Starter-kit/blob/main/data/surprise_data.zip)
+- Test data: [massive_test.data](https://github.com/krishnamrith12/2023-IndoML-Datathon-Starter-kit/blob/main/data/massive_test.data)
+- Use your favourite text editor or IDE to see the data
 
 ## A lazy approach with prompts
 1. LLM_ShortPrompt.ipynb ➞ [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsantraigi/2023-IndoML-Datathon-Tutorial/blob/main/LLM_ShortPrompt.ipynb)
